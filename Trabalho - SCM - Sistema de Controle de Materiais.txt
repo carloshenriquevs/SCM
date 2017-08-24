@@ -1,31 +1,31 @@
 Sistema de controle de materiais
 
-A Empresa XPTO SA necessita de um software para realizar controle de entradas/saÌdas e localizaÁ„o de materiais imobilizados e/ou de consumo direto.
+A Empresa XPTO SA necessita de um software para realizar controle de entradas/sa√≠das e localiza√ß√£o de materiais imobilizados e/ou de consumo direto.
 
-Ser· desenvolvimento um sistema WEB utilizando tecnologia Microsoft .Net com banco de dados SQL Server.
+Ser√° desenvolvimento um sistema WEB utilizando tecnologia Microsoft .Net com banco de dados SQL Server.
 
-O Sistema dever· ter uma base de cadastro de funcion·rios, que cria um usu·rio com uma senha padr„o, quando um novo funcion·rio È contratado.
+O Sistema dever√° ter uma base de cadastro de funcion√°rios, que cria um usu√°rio com uma senha padr√£o, quando um novo funcion√°rio √© contratado.
 
-O sistema dever· ter uma funcionalidade para que os funcion·rios que esqueceram da senha, consiga reseta-las mediante respostas de algumas perguntas.
+O sistema dever√° ter uma funcionalidade para que os funcion√°rios que esqueceram da senha, consiga reseta-las mediante respostas de algumas perguntas.
 
-O Sistema dever· ter a possibilidade de cadastro manual de material e de cadastro em massa (via carga de arquivo), pois apÛs a implantaÁ„o em produÁ„o, iremos carregar toda a base de dados atual no sistema.
+O Sistema dever√° ter a possibilidade de cadastro manual de material e de cadastro em massa (via carga de arquivo), pois ap√≥s a implanta√ß√£o em produ√ß√£o, iremos carregar toda a base de dados atual no sistema.
 
-O sistema dever· ter integraÁ„o com o sistema de fiscal, para que no momento da entrada da NF de novos materiais, o estoque atual do material seja atualizado.
+O sistema dever√° ter integra√ß√£o com o sistema de fiscal, para que no momento da entrada da NF de novos materiais, o estoque atual do material seja atualizado.
 
-O sistema dever· ter integraÁ„o com o sistema de compras, para que no momento do planejamento de novas compras, j· seja considerado se existe alguma compra em andamento.
+O sistema dever√° ter integra√ß√£o com o sistema de compras, para que no momento do planejamento de novas compras, j√° seja considerado se existe alguma compra em andamento.
 
-O sistema dever· ter integraÁ„o com o cadastro de funcion·rios, pois equipamentos consideramos imobilizados, dever„o ser vinculados a matricula do funcion·rio que est· utilizando.
+O sistema dever√° ter integra√ß√£o com o cadastro de funcion√°rios, pois equipamentos consideramos imobilizados, dever√£o ser vinculados a matricula do funcion√°rio que est√° utilizando.
 
-O sistema dever· permitir que os funcion·rios faÁam solicitaÁ„o de materiais, mediante disponibilidade em estoque.
+O sistema dever√° permitir que os funcion√°rios fa√ßam solicita√ß√£o de materiais, mediante disponibilidade em estoque.
 
-O sistema dever· permitir que o almoxarife realize a liberaÁ„o dos materiais solicitados, e caso seja imobilizado, realize o vinculo do equipamento liberado na matricula do funcion·rio que solicitou.
+O sistema dever√° permitir que o almoxarife realize a libera√ß√£o dos materiais solicitados, e caso seja imobilizado, realize o vinculo do equipamento liberado na matricula do funcion√°rio que solicitou.
 
-O sistema dever· permitir ao Gestor que realize alteraÁ„o das quantidades em estoque, para garantir a acuracidade nos invent·rios realizados. Todas as alteraÁıes dever„o ser guardadas em log para futuras auditorias,
+O sistema dever√° permitir ao Gestor que realize altera√ß√£o das quantidades em estoque, para garantir a acuracidade nos invent√°rios realizados. Todas as altera√ß√µes dever√£o ser guardadas em log para futuras auditorias,
 
-O sistema dever· ter integraÁ„o com a Sefaz para emiss„o de nota de simples remessa para realizar transferÍncia de materiais entre filiais interestaduais.
+O sistema dever√° ter integra√ß√£o com a Sefaz para emiss√£o de nota de simples remessa para realizar transfer√™ncia de materiais entre filiais interestaduais.
 
-O sistema dever· gerar relatÛrios para o Gestor acompanhar a evoluÁ„o de saÌda/entrada dos equipamentos.
+O sistema dever√° gerar relat√≥rios para o Gestor acompanhar a evolu√ß√£o de sa√≠da/entrada dos equipamentos.
 
-O sistema dever· ter um cadastro de planejamento de materias, para garantir que n„o haja falta em estoque.
+O sistema dever√° ter um cadastro de planejamento de materias, para garantir que n√£o haja falta em estoque.
 
-O sistema dever· emitir um alerta quando um determinado material atingir um determinado % do estoque.
+O sistema dever√° emitir um alerta quando um determinado material atingir um determinado % do estoque.
